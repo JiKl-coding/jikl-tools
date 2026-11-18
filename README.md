@@ -17,7 +17,7 @@ presses Enter. Passwords are encrypted with Windows DPAPI. One `.exe`, no admini
 1. Download `jikl-hotkeys-<version>-win-x64.zip` from the newest `jikl-hotkeys/v…` release.
 2. Right-click the zip → **Properties** → tick **Unblock** → OK (avoids SmartScreen blocks).
 3. Extract it anywhere and run `jikl-hotkeys.exe`. It offers to install itself for your Windows user
-   (`%LOCALAPPDATA%\jikl-tools\jikl-hotkeys\`, Start menu shortcut, uninstall in **Settings → Apps**).
+   (`%LOCALAPPDATA%\jikl-tools\jikl-hotkeys\`, desktop and Start menu shortcuts, uninstall in **Settings → Apps**).
 
 The app looks for new releases here and offers to update itself; it verifies the `.sha256` checksum before installing.
 The full manual is the `README.md` inside the zip.
